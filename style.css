@@ -1,0 +1,28 @@
+
+div.azul {
+    
+    background-color: lightblue;
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+    border: solid black 10px;   
+}
+
+div.vermelho {
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+    border:solid black 20px;
+    margin-left: 260px;
+}
+
+div.amarelo {
+    background-color: yellow;
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+    border: solid black 10px;
+    margin-left: 540px;
+
+}
